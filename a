@@ -1,0 +1,1 @@
+cmd='echo cluster510|sudo ntpdate chen-5101'
